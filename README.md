@@ -5,6 +5,7 @@ The following is the link to download the data used in our papers
 1) Wei-Lun Chao *, Boqing Gong *, Kristen Grauman, and Fei Sha, “Large-margin determinantal point processes,” UAI, 2015
 
 2) Boqing Gong *, Wei-Lun Chao *, Kristen Grauman, and Fei Sha, “Diverse sequential subset selection for supervised video summarization,” NIPS, 2014
+
 https://www.dropbox.com/s/bpy41o2zglk4ka4/video_summarization.zip?dl=0
 
 The zip file provides the oracle/ground set/features we use for video summarization on the OVP and YouTube dataset provided by
