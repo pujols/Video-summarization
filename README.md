@@ -1,5 +1,6 @@
 # Video-summarization
 
+## Data
 The following is the link to download the data used in our papers
 
 1) Wei-Lun Chao *, Boqing Gong *, Kristen Grauman, and Fei Sha, “Large-margin determinantal point processes,” UAI, 2015
@@ -15,3 +16,6 @@ video summaries and a novel evaluation method," Pattern Recognition Letters, 32(
 
 The original videos/user groundtruths/evaluation package can be downloaded from the authors' project page
 https://sites.google.com/site/vsummsite/
+
+## Codes
+We will release our codes for NIPS 2014 soon.
