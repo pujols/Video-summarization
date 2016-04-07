@@ -1,11 +1,17 @@
 # Video-summarization
 
+## Codes
+Please download sepDPP.zip for the codes of our paper
+
+Boqing Gong *, Wei-Lun Chao *, Kristen Grauman, and Fei Sha, “Diverse sequential subset selection for supervised video summarization,” NIPS, 2014
+
+
 ## Data
 The following is the link to download the data used in our papers
 
-1) Wei-Lun Chao *, Boqing Gong *, Kristen Grauman, and Fei Sha, “Large-margin determinantal point processes,” UAI, 2015
+Wei-Lun Chao *, Boqing Gong *, Kristen Grauman, and Fei Sha, “Large-margin determinantal point processes,” UAI, 2015
 
-2) Boqing Gong *, Wei-Lun Chao *, Kristen Grauman, and Fei Sha, “Diverse sequential subset selection for supervised video summarization,” NIPS, 2014
+Boqing Gong *, Wei-Lun Chao *, Kristen Grauman, and Fei Sha, “Diverse sequential subset selection for supervised video summarization,” NIPS, 2014
 
 https://www.dropbox.com/s/bpy41o2zglk4ka4/video_summarization.zip?dl=0
 
@@ -16,6 +22,3 @@ video summaries and a novel evaluation method," Pattern Recognition Letters, 32(
 
 The original videos/user groundtruths/evaluation package can be downloaded from the authors' project page
 https://sites.google.com/site/vsummsite/
-
-## Codes
-We will release our codes for NIPS 2014 soon.
