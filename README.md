@@ -1,7 +1,9 @@
 # Video-summarization
 
 ## Codes
-Please download sepDPP.zip for the codes of our paper
+Please download seqDPP.zip from
+https://github.com/pujols/Video-summarization/blob/master/seqDPP.zip
+for the codes of our paper
 
 Boqing Gong *, Wei-Lun Chao *, Kristen Grauman, and Fei Sha, “Diverse sequential subset selection for supervised video summarization,” NIPS, 2014
 
