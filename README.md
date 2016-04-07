@@ -7,6 +7,8 @@ for the codes of our paper
 
 Boqing Gong *, Wei-Lun Chao *, Kristen Grauman, and Fei Sha, “Diverse sequential subset selection for supervised video summarization,” NIPS, 2014
 
+Please follow the Readme.txt in seqDPP.zip for installation.
+
 
 ## Data
 The following is the link to download the data used in our papers
