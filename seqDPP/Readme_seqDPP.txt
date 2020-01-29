@@ -8,7 +8,7 @@ https://www.dropbox.com/s/bpy41o2zglk4ka4/video_summarization.zip?dl=0
 Unzip it and put the "video_summarization" folder under "/seqDPP"
 
 2) Please download the downsampled video frames from
-
+https://drive.google.com/open?id=1tKc-yxMAZKDaTNw_AIpIHTst5TZElIK7
 Unzip it and put the "Frames_sampled" folder under "/seqDPP/data"
 Please put all the files (e.g, vXX.mat) originally within "/seqDPP/data/Frames_sampled/OVP or /Youtube" into "/seqDPP/data/Frames_sampled"
 By doing so, you should have 100 vXX.mat (XX from 11 to 110) under "/seqDPP/data/Frames_sampled"
